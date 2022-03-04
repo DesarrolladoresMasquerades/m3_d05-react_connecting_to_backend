@@ -12,7 +12,6 @@ function App() {
 
       <Routes>
         <Route path="/" element={<ApartmentsPage />} />
-        <Route path="/apartments/new" element={<AddApartmentPage />} />
       </Routes>
     </div>
   );
